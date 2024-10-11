@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851389324",
+    "project_id": "explore-18625",
+    "storage_bucket": "explore-18625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851389324:android:7c272971c5df36f60544a9",
+        "android_client_info": {
+          "package_name": "com.abir.explore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbxVD8RrAXR2GF9OeBTwvtSyyODRYogvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
